@@ -1,0 +1,7 @@
+
+# VLC media player VLM command batch
+# http://www.videolan.org/vlc/
+
+new Scuola vod enabled
+setup Scuola input "tcp://192.168.0.102:5000"
+setup Scuola option network-caching=1000
